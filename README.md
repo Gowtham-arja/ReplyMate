@@ -10,7 +10,7 @@
 
 # 🛠️  Tech Stack
 
-- Backend         Java, Spring Boot, REST APIs
-- Frontend        React.js
-- AI/LLM          Groq API — LLaMA 3.3 70B
-- Deployment      Docker, Render (backend), Vercel (frontend)
+- Backend     ->    Java, Spring Boot, REST APIs
+- Frontend    ->    React.js
+- AI/LLM      ->    Groq API — LLaMA 3.3 70B
+- Deployment  ->    Docker, Render (backend), Vercel (frontend)

@@ -18,7 +18,7 @@
 
 # 📐 Architecture
 
-<img width="959" height="220" alt="image" src="https://github.com/user-attachments/assets/b31f1087-7c11-4a7b-9648-4dce4e1134d4" />
+<img width="959" height="232" alt="image" src="https://github.com/user-attachments/assets/a3de5b24-4353-4694-aea9-76423224f771" />
 
 1. User pastes an email + selects a desired tone in the React UI.
 2. The frontend sends a request to the Spring Boot REST API.

@@ -18,7 +18,7 @@
 
 # 📐 Architecture
 
-![Architecture](assets/replymate-architecture.svg)
+<img width="959" height="220" alt="image" src="https://github.com/user-attachments/assets/b31f1087-7c11-4a7b-9648-4dce4e1134d4" />
 
 1. User pastes an email + selects a desired tone in the React UI.
 2. The frontend sends a request to the Spring Boot REST API.

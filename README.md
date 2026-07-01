@@ -1,4 +1,4 @@
-##ReplyMate ✉️🤖
+#ReplyMate ✉️🤖
 
 AI-powered email reply generator paste an email, pick a tone, get a polished reply in seconds.
 

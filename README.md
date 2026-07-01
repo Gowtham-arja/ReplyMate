@@ -6,3 +6,12 @@
 - 🌐 Clean React UI for pasting an email and getting an instant draft reply
 - 🐳 Dockerized backend for consistent, reproducible deployment
 - ☁️ Live deployment: backend on Render, frontend on Vercel
+
+
+# 🛠️  Tech Stack
+
+ Layer                  Technology
+Backend         Java, Spring Boot, REST APIs
+Frontend        React.js
+AI/LLM          Groq API — LLaMA 3.3 70B
+Deployment      Docker, Render (backend), Vercel (frontend)

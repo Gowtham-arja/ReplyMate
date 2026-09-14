@@ -34,7 +34,7 @@ public class EmailGeneratorService {
 
         //Craft a Request
         Map<String, Object> apiRequestBody = new HashMap<>();
-        apiRequestBody.put("model", "llama-3.3-70b-versatile");
+        apiRequestBody.put("model", "openai/gpt-oss-120b");
         Map<String, String> message = new HashMap<>();
         message.put("role", "user");
         message.put("content", prompt);

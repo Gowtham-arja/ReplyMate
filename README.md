@@ -22,5 +22,5 @@
 
 1. User pastes an email + selects a desired tone in the React UI.
 2. The frontend sends a request to the Spring Boot REST API.
-3. The backend builds a prompt and calls the Groq API (LLaMA 3.3 70B).
+3. The backend builds a prompt and calls the Groq API (GPT-OSS 120B).
 4. The generated reply is returned to the frontend and displayed to the user.

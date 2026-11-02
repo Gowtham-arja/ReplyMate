@@ -1,6 +1,6 @@
 # ✨ Features
 
-- 🧠 Generates smart, context-aware email replies using Groq API
+- 🧠 Generates smart, context-aware email replies using Groq API(GPT-OSS 120B)
 - 🎭 Multiple tone options (e.g. professional, friendly, concise) for the same email
 - ⚡ Fast inference thanks to Groq's LPU-based API
 - 🌐 Clean React UI for pasting an email and getting an instant draft reply
@@ -12,7 +12,7 @@
 
 - Backend     ->    Java, Spring Boot, REST APIs
 - Frontend    ->    React.js
-- AI/LLM      ->    Groq API — LLaMA 3.3 70B
+- AI/LLM      ->    Groq API — GPT-OSS 120B
 - Deployment  ->    Docker, Render (backend), Vercel (frontend)
 
 

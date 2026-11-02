@@ -1,6 +1,6 @@
 # ✨ Features
 
-- 🧠 Generates smart, context-aware email replies using Groq API (LLaMA 3.3 70B)
+- 🧠 Generates smart, context-aware email replies using Groq API
 - 🎭 Multiple tone options (e.g. professional, friendly, concise) for the same email
 - ⚡ Fast inference thanks to Groq's LPU-based API
 - 🌐 Clean React UI for pasting an email and getting an instant draft reply
